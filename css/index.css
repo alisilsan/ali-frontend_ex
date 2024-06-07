@@ -2,7 +2,11 @@ body {
     background-image: url("../img/galaxy_1.gif");
     color: #fff;
 }
-
+hr{
+    background-color: goldenrod;
+    height: 1px;
+    border: 0;
+}
 h1 {
     color: #fff;
     text-align: center;
@@ -19,10 +23,10 @@ a:hover {
 }
 table {
     font-weight: bold;
-    float: left;
-    margin: 30px 40px;
+    margin: 30px 0;
 }
 th {
+    text-align: left;
     font-size: 1.5em;
 }
 td {
